@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **n.sai.praveen.2004@gmail.com**
 
-- ⚡ Fun fact **I want to see my self as a MBA grad from Harvard.**
+- ⚡ Fun fact **I want to see my self as a Remote Engineer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
