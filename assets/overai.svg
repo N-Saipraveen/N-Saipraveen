@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-label="OverAI — an assistant within reach"><title>OverAI — an assistant within reach</title><g font-family='-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif'>
+<rect width="1000" height="520" fill="#252527"/>
+<text x="58" y="58" fill="#a1a1a6" font-size="12" letter-spacing="2">01 / NATIVE MACOS</text>
+<text x="58" y="115" fill="#fff" font-size="38" font-weight="600" letter-spacing="-1">Stay in your flow.</text>
+<text x="58" y="150" fill="#b6b6bc" font-size="17">An assistant, always within reach.</text>
+<rect x="58" y="198" width="584" height="258" rx="12" fill="#1d1d1f" stroke="#444448"/>
+<path d="M58 239H642" stroke="#444448"/>
+<g fill="#626268"><circle cx="80" cy="219" r="4"/><circle cx="96" cy="219" r="4"/><circle cx="112" cy="219" r="4"/></g>
+<text x="350" y="224" text-anchor="middle" fill="#a1a1a6" font-size="12">workspace</text>
+<g font-family="SFMono-Regular, Consolas, monospace" font-size="15">
+<text x="84" y="285" fill="#6e6e73">01</text><text x="122" y="285" fill="#9ecfff">def build_something_useful():</text>
+<text x="84" y="320" fill="#6e6e73">02</text><text x="140" y="320" fill="#b6b6bc">idea = curiosity + craft</text>
+<text x="84" y="355" fill="#6e6e73">03</text><text x="140" y="355" fill="#b6b6bc">return make_it_real(idea)</text>
+</g>
+<rect x="555" y="181" width="387" height="278" rx="18" fill="#f5f5f7"/>
+<text x="580" y="216" fill="#1d1d1f" font-size="15" font-weight="600">OverAI</text>
+<rect x="845" y="198" width="72" height="27" rx="7" fill="#e8e8ed"/>
+<text x="881" y="216" text-anchor="middle" fill="#515154" font-size="12">⌘ + G</text>
+<line x1="555" y1="240" x2="942" y2="240" stroke="#dedee3"/>
+<text x="580" y="283" fill="#1d1d1f" font-size="23" font-weight="600" letter-spacing="-.5">A little closer to your ideas.</text>
+<text x="580" y="318" fill="#6e6e73" font-size="15">Cloud assistants. Local models.</text>
+<text x="580" y="342" fill="#6e6e73" font-size="15">One floating workspace.</text>
+<rect x="580" y="378" width="337" height="52" rx="12" fill="#fff" stroke="#dedee3"/>
+<text x="597" y="410" fill="#86868b" font-size="14">Ask. Explore. Keep building.</text>
+<circle cx="890" cy="404" r="14" fill="#0066cc"/>
+<path d="M890 411V397M885 402L890 397L895 402" fill="none" stroke="white" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="58" y="493" fill="#86868b" font-size="10" letter-spacing="1">INTERFACE ILLUSTRATION</text>
+</g></svg>

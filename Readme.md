@@ -1,30 +1,71 @@
-
-<h1 align="center">Hi 👋, I'm N Saipraveen</h1>
-<h3 align="center">A passionate Open-source and DevOps developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-saipraveen&label=Profile%20views&color=0e75b6&style=flat" alt="n-saipraveen" /> </p>
-
-<p align="left"> <a href="https://twitter.com/n_saipraveen" target="blank"><img src="https://img.shields.io/twitter/follow/n_saipraveen?logo=twitter&style=for-the-badge" alt="n_saipraveen" /></a> </p>
-
-- 🔭 I’m currently working on [Data Structures and Algorithms.](https://www.coursera.org/learn/algorithms-part1)
-
-- 🌱 I’m currently learning **Java DSA and DevOps.**
-
-- 🤝 I’m looking for help with **DevOps,Cloud.**
-
-- 💬 Ask me about **Open-Source,Java,C,Python,DevOps.**
-
-- 📫 How to reach me **n.sai.praveen.2004@gmail.com**
-
-- ⚡ Fun fact **I want to see my self as a Remote Engineer.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/n_saipraveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_saipraveen" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sai-praveen-26b186253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai praveen nandayala" height="30" width="40" /></a>
-<a href="https://instagram.com/saipraveen_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saipraveen_n" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="N Saipraveen. Thoughtful software. From the interface to the infrastructure." />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  Open-source developer from India.<br />
+  Building across macOS, developer tools, storage systems, and the cloud.
+</p>
+
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/sai-praveen-26b186253/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:n.sai.praveen.2004@gmail.com">Get in touch</a>
+</p>
+
+<br />
+
+## Selected work
+
+### OverAI
+**Your AI. One shortcut away.**
+
+A floating macOS workspace for cloud assistants and local models. Built with Python and PyObjC, using AppKit and WebKit to bring AI into the desktop workflow.
+
+<a href="https://github.com/N-Saipraveen/overai-mac">
+  <img src="assets/overai.svg" width="100%" alt="OverAI interface illustration: a floating assistant window over a desktop workspace. Command + G brings it into focus. Cloud assistants and Ollama local models in one place." />
+</a>
+
+`Python` &nbsp; `PyObjC` &nbsp; `AppKit` &nbsp; `WebKit` &nbsp; `Ollama`
+
+[Explore OverAI →](https://github.com/N-Saipraveen/overai-mac) &nbsp;&nbsp; [Releases →](https://github.com/N-Saipraveen/overai-mac/releases)
+
+<br />
+
+### LagerKV
+**Small engine. Deep systems thinking.**
+
+A key-value storage engine built from scratch in Go, inspired by Bitcask. Append-only logs meet an in-memory index, with CRC32 checksums, key expiration, configurable fsync, and background compaction.
+
+<a href="https://github.com/N-Saipraveen/LagerKV">
+  <img src="assets/lagerkv.svg" width="100%" alt="LagerKV architecture: a write appends a record to disk and updates an in-memory KeyDir. Reads use the index to locate the stored value." />
+</a>
+
+`Go` &nbsp; `Storage engines` &nbsp; `Concurrency` &nbsp; `Data integrity`
+
+[Explore LagerKV →](https://github.com/N-Saipraveen/LagerKV) &nbsp;&nbsp; [Interactive demo →](https://N-Saipraveen.github.io/LagerKV/)
+
+<br />
+
+## What I bring to the build
+
+| Area | Toolkit & interests |
+| :--- | :--- |
+| **Systems** | Go, C, data structures, storage internals |
+| **Applications** | Python, Java, native macOS integrations |
+| **Infrastructure** | Linux, Git, DevOps, cloud workflows |
+| **Open source** | Building in public, sharing code, learning through implementation |
+
+I like understanding how things work beneath the surface—and turning that understanding into something useful. My projects move between the experience on screen and the systems that make it possible.
+
+<br />
+
+## Let's build something useful.
+
+Interested in developer tools, native experiences, or infrastructure? I'd love to connect.
+
+[Email →](mailto:n.sai.praveen.2004@gmail.com) &nbsp;&nbsp; [LinkedIn →](https://www.linkedin.com/in/sai-praveen-26b186253/) &nbsp;&nbsp; [X →](https://twitter.com/n_saipraveen)
+
+---
+
+<p align="center"><sub>N Saipraveen &nbsp; · &nbsp; India &nbsp; · &nbsp; Built with intention. Shared openly.</sub></p>
